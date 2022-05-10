@@ -17,21 +17,21 @@ ros-melodic-turtlebot-* \
 ros-melodic-move-base \
 ros-melodic-map-server \
 ros-melodic-fake-localization \
-ros-melodic-amcl  \
+ros-melodic-amcl \
 ros-melodic-moveit-ros \
 ros-melodic-navigation \
 ros-melodic-gazebo-ros-control \
 ros-melodic-ros-controllers \
 ros-melodic-ros-control \
 ros-melodic-sound-play \
-ros-melodic-slam-gmapping \
+ros-melodic-gmapping \
 ros-melodic-moveit-visual-tools \
 ros-melodic-moveit-simple-controller-manager \
 ros-melodic-moveit-planners-ompl \
 ros-melodic-moveit-fake-controller-manager \
-ros-melodic-moveit-commander  \
+ros-melodic-moveit-commander \
 python-rosinstall \
-python-setuptools  \
+python-setuptools \
 python-opencv  \
 libasound2-dev \
 libopencv-dev git subversion mercurial
