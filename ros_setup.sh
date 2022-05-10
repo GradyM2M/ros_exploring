@@ -37,6 +37,6 @@ libasound2-dev \
 libopencv-dev git subversion mercurial
 
 sudo apt-get -y install libboost-python-dev libboost-filesystem-dev libboost-system-dev \
-        libboost-thread-dev python-setuptools python-gobject python-gtk2 graphviz doxygen \
-        python-sphinx
+libboost-thread-dev python-setuptools python-gobject python-gtk2 graphviz doxygen \
+python-sphinx
 
